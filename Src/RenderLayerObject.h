@@ -1,0 +1,5 @@
+class RenderLayerObject
+{
+public:
+	RenderLayerObject();
+};

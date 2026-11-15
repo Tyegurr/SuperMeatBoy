@@ -1,0 +1,5 @@
+Debug/
+System/
+*.suo
+*.ncb
+*.vcproj

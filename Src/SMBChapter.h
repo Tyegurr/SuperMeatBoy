@@ -1,0 +1,5 @@
+class SMBChapter
+{
+public:
+	SMBChapter();
+};
